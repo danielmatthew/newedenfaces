@@ -1,6 +1,6 @@
 import React from 'react';
 import {RouteHandler} from 'react-router';
-import Footer from './footer';
+import Footer from './Footer';
 import Navbar from './Navbar';
 
 class App extends React.Component {
